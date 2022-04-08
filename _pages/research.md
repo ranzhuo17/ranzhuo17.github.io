@@ -25,7 +25,16 @@ permalink: /research/
 # <center> Work in Progress </center>
 - - -
 
+**Answering Policy Questions Related to Dynamic Input Allocation in R&D.** 
+<br/>
 
+**Demand Fluctuations and Supply Coordination in Semiconductor Manufacturing** 
+(with Audrey Tiew).
+<br/>
+
+**Upgraded Software and Embedded Improvements: Using Spiders to Track Bugs on the Web** 
+(with Raviv Murciano-Goroff and Shane Greenstein).
+<br/>
 
 # <center> Publications </center>
 - - -
