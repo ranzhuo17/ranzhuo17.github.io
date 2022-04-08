@@ -12,6 +12,10 @@ permalink: /research/
 # <center> Working Papers </center>
 - - -
 
+**Exploit or Explore? Dynamic Input Allocation in R&D.** 
+2022.
+<br/>
+
 **Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
 (with Christopher Snyder). 2022.
 *Revision requested, Review of Economics and Statistics.*
@@ -20,6 +24,8 @@ permalink: /research/
 
 # <center> Work in Progress </center>
 - - -
+
+
 
 # <center> Publications </center>
 - - -
