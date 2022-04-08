@@ -14,7 +14,7 @@ permalink: /research/
 
 **Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
 (with Christopher Snyder). 2022.
-*Revision requested, Review of Economics and Statistics*
+*Revision requested, Review of Economics and Statistics.*
 <br/>
 
 
