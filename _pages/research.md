@@ -12,6 +12,18 @@ permalink: /research/
 # <center> Working Papers </center>
 - - -
 
+**Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
+(with Christopher Snyder). 2022.
+*Revision requested, Review of Economics and Statistics*
+<br/>
+<small>[ <a href="#/" onclick="visib('pm')">Abstract</a> | [Publisher's Version][pm_pub] ] </small>
+
+<div id="pm" style="display: none; text-align: justify; line-height: 1.2" ><small>
+It has long been understood in theory that price-match guarantees can be anticompetitive, but to date, scant empirical evidence is available outside of some narrow markets. This paper broadens the scope of empirical analysis, studying a wide range of products sold on a national online market. Using an algorithm that extracts data from charts, I obtain a novel source of data from online price trackers. I examine prices of goods sold on Amazon before and after two big-box stores (Target and Best Buy) announced a guarantee to match Amazon's prices. Employing both difference-in-difference and regression-discontinuity approaches, I robustly estimate a positive causal effect of six percentage points. The effect was heterogeneous, with larger price increases for initially lower-priced items. My results support anticompetitive theories which predict price increases for Amazon, a firm that did not adopt the guarantee, and are consistent with plausible mechanisms for the heterogeneous impact.
+</small><br><br/></div>
+
+[pm_pub]: https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0308596120301737?dgcid=author
+
 
 # <center> Work in Progress </center>
 - - -
@@ -46,7 +58,7 @@ The Internet comprises thousands of independently operated networks, interconnec
 
 **Do Low‐Price Guarantees Guarantee Low Prices? Evidence from Competition between Amazon and Big‐Box Stores.** 
 2017.
-*The Journal of Industrial Economics 65 (4): 719-738.*
+*Journal of Industrial Economics 65 (4): 719-738.*
 <br/>
 <small>[ <a href="#/" onclick="visib('pm')">Abstract</a> | [Publisher's Version][pm_pub] ] </small>
 
