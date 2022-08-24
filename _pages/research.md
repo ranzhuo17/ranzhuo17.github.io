@@ -12,7 +12,7 @@ permalink: /research/
 # <center> Working Papers </center>
 - - -
 
-**Exploit or Explore? Dynamic Input Allocation in R&D.** 
+**Exploit or Explore? An Empirical Study of Resource Allocation in Scientific Labs.** 
 2022.
 <br/>
 
