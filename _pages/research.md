@@ -50,7 +50,7 @@ How do you measure the value of a commodity that transacts at a price of zero fr
 
 **The Impact of the General Data Protection Regulation on Internet Interconnection** 
 (with Bradley Huffaker, kc claffy, and Shane Greenstein). 2021.
-*Telecommunications Policy 45 (2).*
+*Telecommunications Policy 45 (2): 102083.*
 <br/>
 <small>[ <a href="#/" onclick="visib('gdpr')">Abstract</a> | [Publisher's Version][gdpr_pub] ] </small>
 
