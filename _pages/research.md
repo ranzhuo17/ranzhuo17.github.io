@@ -43,18 +43,18 @@ The increasing demand for empirical rigor has led to the growing use of auxiliar
 **Demand Fluctuations and Supply Coordination in Semiconductor Manufacturing** 
 (with Audrey Tiew).
 <br/>
-<small>[ <a href="#/" onclick="visib('bias')">Abstract</a> ] </small>
+<small>[ <a href="#/" onclick="visib('semi')">Abstract</a> ] </small>
 
-<div id="bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="semi" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study how supply capacity coordination can reduce social inefficiency from demand uncertainty and market power in the context of the semiconductor manufacturing industry. Market power generates misalignment between firm profit-maximizing capacity investments and welfare-maximizing capacity investments. To quantify the extent of this inefficiency and explore how various forms of supply coordination can mitigate it, we estimate a static structural model of semiconductor demand and a dynamic model of supply-side investment in technology and capacity. The data we have assembled to perform this exercise are, to our knowledge, the most comprehensive data on the industry in academic research. We obtain: (i) detailed proprietary buyer-level product demand data, covering around 20% of world orders, from 2004 to 2015, and (ii) proprietary world-wide, plant-level technology and capacity investment in semiconductor manufacturing plants from 1995 to 2015. We compare in counterfactual scenarios the relative efficacy of various forms of supply coordination (e.g., social planner, monopoly manufacturer, coordination on technology and capacity investment but competition in product market) in reducing inefficiency.
 </small><br><br/></div>
 
 **Upgraded Software and Embedded Improvements: Using Spiders to Track Bugs on the Web** 
 (with Raviv Murciano-Goroff and Shane Greenstein).
 <br/>
-<small>[ <a href="#/" onclick="visib('bias')">Abstract</a> ] </small>
+<small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> ] </small>
 
-<div id="bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="oss2" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Our prior research (Murciano-Goroff, Zhuo, Greenstein, 2021) documented webserver usage across the US economy over the last two decades and identified enormous heterogeneity in the propensity to upgrade web server software. We investigate the causes of this heterogeneity in upgrades. We focus on quasi-natural experiments after the appearance of a severe security bug, and we analyze empirically why firms accelerate their rate of upgrading webserver software when a severe bug arises. A reverse causality issue arises due to a correlation between the (low) propensity to upgrade and a (high) prevalence of software that contains known security vulnerabilities. We develop hazard model approaches that account for firm-specific propensities to upgrade. We find that firms accelerate upgrading when their webserver supports electronic commerce instead of providing merely an informational or coordinating role. We also find acceleration when firms have recently displayed an unusually good financial performance. Finally, we find a significant propensity to upgrade merely because a new version has appeared, suggesting many firms gain protection against bugs as a byproduct of routine administrative processes that support maintaining frontier software.
 </small><br><br/></div>
 
