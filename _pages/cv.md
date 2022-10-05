@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to my CV]({% post_url 2010-07-21-name-of-post %})
+[Link to my CV]: https://ranzhuo17.github.io/files/RanZhuo_CV_current.pdf
