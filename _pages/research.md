@@ -15,11 +15,26 @@ permalink: /research/
 **Exploit or Explore? An Empirical Study of Resource Allocation in Scientific Labs.** 
 2022.
 <br/>
+<small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Paper][ee_paper]| [Online Appendices][ee_app] ] </small>
+
+<div id="ee" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Allocating innovation resources to their most productive uses is a challenge for innovators because they have incomplete information about which projects will be most productive. I empirically study how a group of large scientific labs traded off the exploitation of existing opportunities
+versus the exploration of new ones, that is whether they pursued safe projects to maximize short-term productivity or undertook high-variance projects to acquire information and improve long-term productivity. To recover how these labs made the exploitation-exploration tradeoff, I estimate a dynamic model of decision-making, assuming the labs approximated the value of exploration with a simple index. The type of index is well-studied in theory and well-used in practice but has not been applied to estimation of empirical decision models. The index model captures the labs’ decision-making well. Estimates of its free parameters suggest that the labs explored extensively. Counterfactual simulations show that, had the labs not explored, their output quantity would have decreased by 51%, and their citations would have decreased by 57%.
+</small><br><br/></div>
+
+[ee_paper]: https://ranzhuo17.github.io/files/RanZhuo_JMP_main_current.pdf
+[ee_app]:https://ranzhuo17.github.io/files/RanZhuo_JMP_appendices_current.pdf
+
 
 **Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
 (with Christopher Snyder). 2022.
 *Revision requested, Review of Economics and Statistics.*
 <br/>
+<small>[ <a href="#/" onclick="visib('bias')">Abstract</a> | [Publisher's Version][hs_pub] ] </small>
+
+<div id="bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
+The increasing demand for empirical rigor has led to the growing use of auxiliary tests (balance, pre-trends, over-identification, placebo, etc.) to help assess the credibility of a paper’s main results. We dub these “sniff tests” because rejection is bad news for the author and standards for passing are informal. We use these sniff tests—a sample of nearly 30,000 hand-collected from scores of economics journals—as a lens to examine selection pressures in the publication process. We derive nonparametric bounds on the latent proportion of significant sniff tests removed by the publication process (whether by p-hacking or relegation to the file drawer) and the proportion indicating actual misspecification rather than bad luck. Structural estimation allows us to pinpoint the rates of removal and misspecification within these bounds. For the subsample of balance tests in randomized controlled trials, the structural estimates suggest that the publication process removes nearly half of significant sniff tests, yet at most one in ten of these is actually misspecified. Other tests seem to face a laxer screen, exhibiting more misspecification and less removal. Textual analysis reveals that, surprisingly, more authors would be justified in attributing significant sniff tests to bad luck.
+</small><br><br/></div>
 
 
 # <center> Work in Progress </center>
@@ -28,10 +43,20 @@ permalink: /research/
 **Demand Fluctuations and Supply Coordination in Semiconductor Manufacturing** 
 (with Audrey Tiew).
 <br/>
+<small>[ <a href="#/" onclick="visib('bias')">Abstract</a> | [Publisher's Version][hs_pub] ] </small>
+
+<div id="bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We study how supply capacity coordination can reduce social inefficiency from demand uncertainty and market power in the context of the semiconductor manufacturing industry. Market power generates misalignment between firm profit-maximizing capacity investments and welfare-maximizing capacity investments. To quantify the extent of this inefficiency and explore how various forms of supply coordination can mitigate it, we estimate a static structural model of semiconductor demand and a dynamic model of supply-side investment in technology and capacity. The data we have assembled to perform this exercise are, to our knowledge, the most comprehensive data on the industry in academic research. We obtain: (i) detailed proprietary buyer-level product demand data, covering around 20% of world orders, from 2004 to 2015, and (ii) proprietary world-wide, plant-level technology and capacity investment in semiconductor manufacturing plants from 1995 to 2015. We compare in counterfactual scenarios the relative efficacy of various forms of supply coordination (e.g., social planner, monopoly manufacturer, coordination on technology and capacity investment but competition in product market) in reducing inefficiency.
+</small><br><br/></div>
 
 **Upgraded Software and Embedded Improvements: Using Spiders to Track Bugs on the Web** 
 (with Raviv Murciano-Goroff and Shane Greenstein).
 <br/>
+<small>[ <a href="#/" onclick="visib('bias')">Abstract</a> | [Publisher's Version][hs_pub] ] </small>
+
+<div id="bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Our prior research (Murciano-Goroff, Zhuo, Greenstein, 2021) documented webserver usage across the US economy over the last two decades and identified enormous heterogeneity in the propensity to upgrade web server software. We investigate the causes of this heterogeneity in upgrades. We focus on quasi-natural experiments after the appearance of a severe security bug, and we analyze empirically why firms accelerate their rate of upgrading webserver software when a severe bug arises. A reverse causality issue arises due to a correlation between the (low) propensity to upgrade and a (high) prevalence of software that contains known security vulnerabilities. We develop hazard model approaches that account for firm-specific propensities to upgrade. We find that firms accelerate upgrading when their webserver supports electronic commerce instead of providing merely an informational or coordinating role. We also find acceleration when firms have recently displayed an unusually good financial performance. Finally, we find a significant propensity to upgrade merely because a new version has appeared, suggesting many firms gain protection against bugs as a byproduct of routine administrative processes that support maintaining frontier software.
+</small><br><br/></div>
 
 # <center> Publications </center>
 - - -
