@@ -28,12 +28,12 @@ versus the exploration of new ones, that is whether they pursued safe projects t
 
 **Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
 (with Christopher Snyder). 2022.
-*Revision requested, Review of Economics and Statistics.*
+*Revised and Resubmitted, Review of Economics and Statistics.*
 <br/>
 <small>[ <a href="#/" onclick="visib('bias')">Abstract</a> ] </small>
 
 <div id="bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
-The increasing demand for empirical rigor has led to the growing use of auxiliary tests (balance, pre-trends, over-identification, placebo, etc.) to help assess the credibility of a paper’s main results. We dub these “sniff tests” because rejection is bad news for the author and standards for passing are informal. We use these sniff tests—a sample of nearly 30,000 hand-collected from scores of economics journals—as a lens to examine selection pressures in the publication process. We derive nonparametric bounds on the latent proportion of significant sniff tests removed by the publication process (whether by p-hacking or relegation to the file drawer) and the proportion indicating actual misspecification rather than bad luck. Structural estimation allows us to pinpoint the rates of removal and misspecification within these bounds. For the subsample of balance tests in randomized controlled trials, the structural estimates suggest that the publication process removes nearly half of significant sniff tests, yet at most one in ten of these is actually misspecified. Other tests seem to face a laxer screen, exhibiting more misspecification and less removal. Textual analysis reveals that, surprisingly, more authors would be justified in attributing significant sniff tests to bad luck.
+The increasing demand for empirical rigor has led to the growing use of auxiliary tests (balance, pre-trends, over-identification, placebo, etc.) to help assess the credibility of a paper’s main results. We dub these “sniff tests” because rejection is bad news for the author and standards for passing are informal. We use these sniff tests—a sample of nearly 30,000 hand collected from scores of economics journals—as a lens to examine selection pressures in the publication process. We derive bounds under plausible nonparametric assumptions on the latent proportion of significant sniff tests removed by the publication process (whether by p-hacking or relegation to the file drawer) and the proportion whose significance was due to true misspecification, not bad luck. For the subsample of balance tests in randomized controlled trials, we find that the publication process removed at least 34.0% of significant p-values. For the subsample of other tests, we find a that at least 42.7% of significant p-values indicated true misspecification. We use textual analysis to assess whether authors over-attribute significant sniff tests to bad luck.
 </small><br><br/></div>
 
 
