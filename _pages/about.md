@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Business Economics at Harvard University. I have broad and deep research interests at the intersection of economics of innovation, technology, digitization, and industrial organization. My three published papers have examined digital markets, privacy regulations, and open source software. My current and future research will broadly look at allocation of innovation resources and investment in new technologies in organizations. I use a variety of methods, including reduced-form analysis, machine learning, and structural estimation of empirical decision models. 
+I am a PhD Candidate in Business Economics at Harvard University. I will join the Technology and Operations department at the University of Michigan's Ross School of Business as a Postdoctoral Research Fellow in 2023-2024 and then as an Assistant Professor.
+
+I have broad and deep research interests at the intersection of economics of innovation, technology, digitization, and industrial organization. My three published papers have examined digital markets, privacy regulations, and open source software. My current and future research will broadly look at allocation of innovation resources and investment in new technologies in organizations. I use a variety of methods, including reduced-form analysis, machine learning, and structural estimation of empirical decision models. 
 
 Here is a [link](https://ranzhuo17.github.io/files/RanZhuo_CV_current.pdf) to my CV.
