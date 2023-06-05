@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ran Zhuo"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD Candidate in Business Economics, Harvard University"
+  bio              : "Postdoctoral Research Fellow"
   location         : 
-  employer         :
+  employer         : "University of Michigan - Ross School of Business"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1IIm5DEAAAAJ&hl=en"
-  email            : "rzhuo527@gmail.com"
+  email            : "ranzhuo@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
