@@ -12,28 +12,40 @@ permalink: /research/
 # <center> Working Papers </center>
 - - -
 
-**Exploit or Explore? An Empirical Study of Resource Allocation in Scientific Labs.** 
-2022.
+**Exploit or Explore? An Empirical Study of Resource Allocation in Research Labs.** 
+2023.
+*Submitted.*
 <br/>
-<small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Paper][ee_paper] | [Online Appendices][ee_app] ] </small>
+<small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Latest Version + Appendices][biolab_paper] | [October 2022 Version][ee_paper] | [October 2022 Version Appendices][ee_app] ] </small>
 
 <div id="ee" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Allocating innovation resources to their most productive uses is a challenge for innovators because they have incomplete information about which projects will be most productive. I empirically study how a group of large scientific labs traded off the exploitation of existing opportunities
-versus the exploration of new ones, that is whether they pursued safe projects to maximize short-term productivity or undertook high-variance projects to acquire information and improve long-term productivity. To recover how these labs made the exploitation-exploration tradeoff, I estimate a dynamic model of decision-making, assuming the labs approximated the value of exploration with a simple Upper Confidence Bound (UCB) index. The type of index is well-studied in theory and well-used in practice but has not been applied to estimation of empirical decision models. The index model captures the labs’ decision-making well. Estimates of its free parameters suggest that the labs explored extensively. Counterfactual simulations show that, had the labs not explored, their output quantity would have decreased by 51%, and their citations would have decreased by 57%.
+Balancing exploitation and exploration in resource allocation under incomplete information is a classic problem in operations management theory. Yet little research has empirically studied how and how well decision-makers make the exploitation-exploration tradeoff in a complex real-world situation. This paper empirically studies how a group of large publicly funded research labs traded off the exploitation of safe projects to maximize short-term productivity versus the exploration of high-variance projects to acquire information and improve long-term productivity. Using granular data on the allocation of almost one million input bundles to more than 300,000 research projects from 2000 to 2015, we model the resource allocation process as a multi-armed bandit and estimate a dynamic structural model to reveal how these labs balanced exploitation and exploration. We find the labs' decision model strongly resembles a simple Upper Confidence Bound (UCB) index. Estimates of the model’s free parameters suggest that the labs explored extensively. Counterfactual simulations show that exploration substantially increased the labs’ productivity---had they not explored, their output quantity would have decreased by 51%, and their citations would have decreased by 57%. Further simulations demonstrate that the labs' decision model outperformed popular alternative allocation models, including the Gittins Index, Thompson Sampling, and Explore-Then-Commit. Additionally, processes that promoted information utilization during allocation contributed to better outcomes. Had the labs not collected and performed data analytics on the information revealed during exploration, they would have saved 3% of funding but lowered output quantity by 7% and citations by 9%. 
 </small><br><br/></div>
 
+[biolab_paper]: https://ranzhuo17.github.io/files/biolab_Zhuo.pdf
 [ee_paper]: https://ranzhuo17.github.io/files/RanZhuo_JMP_main_current.pdf
 [ee_app]:https://ranzhuo17.github.io/files/RanZhuo_JMP_appendices_current.pdf
 
 
 **Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
-(with Christopher Snyder). 2022.
-*Revised and Resubmitted, Review of Economics and Statistics.*
+(with Christopher Snyder). 2023.
+*Accepted, Review of Economics and Statistics.*
 <br/>
 <small>[ <a href="#/" onclick="visib('bias')">Abstract</a> ] </small>
 
 <div id="bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
-The increasing demand for empirical rigor has led to the growing use of auxiliary tests (balance, pre-trends, over-identification, placebo, etc.) to help assess the credibility of a paper’s main results. We dub these “sniff tests” because rejection is bad news for the author and standards for passing are informal. We use these sniff tests—a sample of nearly 30,000 hand collected from scores of economics journals—as a lens to examine selection pressures in the publication process. We derive bounds under plausible nonparametric assumptions on the latent proportion of significant sniff tests removed by the publication process (whether by p-hacking or relegation to the file drawer) and the proportion whose significance was due to true misspecification, not bad luck. For the subsample of balance tests in randomized controlled trials, we find that the publication process removed at least 34.0% of significant p-values. For the subsample of other tests, we find a that at least 42.7% of significant p-values indicated true misspecification. We use textual analysis to assess whether authors over-attribute significant sniff tests to bad luck.
+The increasing demand for empirical rigor has led to the growing use of auxiliary tests (balance, pre-trends, over-identification, placebo, etc.) to help assess the credibility of a paper's main results. We dub these ``sniff tests'' because rejection is bad news for the author and standards for passing are informal. We use these sniff tests---a sample of nearly 30,000 hand collected from scores of economics journals---as a lens to examine selection pressures in the publication process. We derive bounds under plausible nonparametric assumptions on the latent proportion of significant sniff tests removed by the publication process (whether by p-hacking
+or relegation to the file drawer) and the proportion whose significance was due to true misspecification, not bad luck. For the subsample of balance tests in randomized controlled trials, we find that the publication process removed at least 30% of significant p-values. For the subsample of other tests, we find a that at least 40% of significant p-values indicated true misspecification. We use textual analysis to assess whether authors over-attribute significant sniff tests to bad luck.
+</small><br><br/></div>
+
+**Upgraded Software and Embedded Improvements: A Puzzle of User Heterogeneity** 
+(with Raviv Murciano-Goroff and Shane Greenstein). 2023.
+*Major Revision, Management Science.*
+<br/>
+<small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> ] </small>
+
+<div id="oss2" style="display: none; text-align: justify; line-height: 1.2" ><small>
+The rise in cyberattacks over the past two decades spurred interest in policies improving cybersecurity. One focus of that research is how to create incentives for software vendors to release updates fixing vulnerabilities in their software. An important consideration that has received far less attention in this literature is understanding if software users install available software updates promptly and the factors that may increase or decrease their responsiveness. In this paper, we empirically investigate the propensity of firms to install software updates on the servers running their websites. We compiled a dataset tracking the server software used by over 150,000 medium and large firms in the United States to host their websites between 2000 and 2018. Treating the discovery of security vulnerabilities in the server software as quasi-natural experiments, we examine if and when firms update their server software after the vendors of that software disclose vulnerabilities. We uncover widespread usage of software with severe security vulnerabilities, with nearly 76% of the firms analyzed forgoing installing software updates that fixed severe security vulnerabilities found in their software for at least six months after the release of such updates. Using hazard model analysis that accounts for firms having different organizational routines for updating, we document that usage of cloud-based platforms for hosting websites can decrease the time to installing updates, that technical complexity on sites slows updating, and that the disclosure of severe vulnerability fixes in software updates does not jolt firms into installing them. Finally, we discuss how the relative inattentiveness of firms to act on software update releases should be incorporated into the design of cybersecurity policies.
 </small><br><br/></div>
 
 
@@ -47,15 +59,6 @@ The increasing demand for empirical rigor has led to the growing use of auxiliar
 
 <div id="semi" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study how supply capacity coordination can reduce social inefficiency from demand uncertainty and market power in the context of the semiconductor manufacturing industry. Market power generates misalignment between firm profit-maximizing capacity investments and welfare-maximizing capacity investments. To quantify the extent of this inefficiency and explore how various forms of supply coordination can mitigate it, we estimate a static structural model of semiconductor demand and a dynamic model of supply-side investment in technology and capacity. The data we have assembled to perform this exercise are, to our knowledge, the most comprehensive data on the industry in academic research. We obtain: (i) detailed proprietary buyer-level product demand data, covering around 20% of world orders, from 2004 to 2015, and (ii) proprietary world-wide, plant-level technology and capacity investment in semiconductor manufacturing plants from 1995 to 2015. We compare in counterfactual scenarios the relative efficacy of various forms of supply coordination (e.g., social planner, monopoly manufacturer, coordination on technology and capacity investment but competition in product market) in reducing inefficiency.
-</small><br><br/></div>
-
-**Upgraded Software and Embedded Improvements: Using Spiders to Track Bugs on the Web** 
-(with Raviv Murciano-Goroff and Shane Greenstein).
-<br/>
-<small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> ] </small>
-
-<div id="oss2" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Our prior research (Murciano-Goroff, Zhuo, Greenstein, 2021) documented webserver usage across the US economy over the last two decades and identified enormous heterogeneity in the propensity to upgrade web server software. We investigate the causes of this heterogeneity in upgrades. We focus on quasi-natural experiments after the appearance of a severe security bug, and we analyze empirically why firms accelerate their rate of upgrading webserver software when a severe bug arises. A reverse causality issue arises due to a correlation between the (low) propensity to upgrade and a (high) prevalence of software that contains known security vulnerabilities. We develop hazard model approaches that account for firm-specific propensities to upgrade. We find that firms accelerate upgrading when their webserver supports electronic commerce instead of providing merely an informational or coordinating role. We also find acceleration when firms have recently displayed an unusually good financial performance. Finally, we find a significant propensity to upgrade merely because a new version has appeared, suggesting many firms gain protection against bugs as a byproduct of routine administrative processes that support maintaining frontier software.
 </small><br><br/></div>
 
 # <center> Publications </center>
