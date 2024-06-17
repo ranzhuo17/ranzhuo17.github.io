@@ -14,7 +14,7 @@ permalink: /research/
 
 **Exploit or Explore? An Empirical Study of Resource Allocation in Research Labs.** 
 2023.
-*Submitted.*
+*Reject and resubmit, Management Science.*
 <br/>
 <small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Latest Version + Appendices (December 2023)][biolab_paper] | [October 2022 Version][ee_paper] | [October 2022 Version Appendices][ee_app] ] </small>
 
@@ -38,14 +38,14 @@ The increasing demand for empirical rigor has led to the growing use of auxiliar
 or relegation to the file drawer) and the proportion whose significance was due to true misspecification, not bad luck. For the subsample of balance tests in randomized controlled trials, we find that the publication process removed at least 30% of significant p-values. For the subsample of other tests, we find a that at least 40% of significant p-values indicated true misspecification. We use textual analysis to assess whether authors over-attribute significant sniff tests to bad luck.
 </small><br><br/></div>
 
-**Upgraded Software and Embedded Improvements: A Puzzle of User Heterogeneity** 
-(with Raviv Murciano-Goroff and Shane Greenstein). 2023.
-*Major Revision, Management Science.*
+**Navigating Software Vulnerabilities: Eighteen Years of Evidence from Medium and Large U.S. Organizations** 
+(with Raviv Murciano-Goroff and Shane Greenstein). 2024.
+*Resubmitted, Management Science.*
 <br/>
 <small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> ] </small>
 
 <div id="oss2" style="display: none; text-align: justify; line-height: 1.2" ><small>
-The rise in cyberattacks over the past two decades spurred interest in policies improving cybersecurity. One focus of that research is how to create incentives for software vendors to release updates fixing vulnerabilities in their software. An important consideration that has received far less attention in this literature is understanding if software users install available software updates promptly and the factors that may increase or decrease their responsiveness. In this paper, we empirically investigate the propensity of firms to install software updates on the servers running their websites. We compiled a dataset tracking the server software used by over 150,000 medium and large firms in the United States to host their websites between 2000 and 2018. Treating the discovery of security vulnerabilities in the server software as quasi-natural experiments, we examine if and when firms update their server software after the vendors of that software disclose vulnerabilities. We uncover widespread usage of software with severe security vulnerabilities, with nearly 76% of the firms analyzed forgoing installing software updates that fixed severe security vulnerabilities found in their software for at least six months after the release of such updates. Using hazard model analysis that accounts for firms having different organizational routines for updating, we document that usage of cloud-based platforms for hosting websites can decrease the time to installing updates, that technical complexity on sites slows updating, and that the disclosure of severe vulnerability fixes in software updates does not jolt firms into installing them. Finally, we discuss how the relative inattentiveness of firms to act on software update releases should be incorporated into the design of cybersecurity policies.
+How prevalent are severe software vulnerabilities, how fast do software users respond to the availability of secure versions, and what determines the variance in the installation distribution? Using the largest dataset ever assembled on user updates, tracking server software updates by over 150,000 medium and large U.S. organizations between 2000 and 2018, this study finds widespread usage of server software with known vulnerabilities, with 57% of organizations using software with severe security vulnerabilities even when secure versions were available. The study estimates several different reduced-form models to examine which organization characteristics correlate with higher vulnerability prevalence and which update characteristics causally explain higher responsiveness to the releases of secure versions. The disclosure of severe vulnerability fixes in software updates does not jolt all organizations into installing them. Factors related to the cost of updating, such as whether the software is hosted on a cloud-based platform and whether the update is an incremental change or a major overhaul, play an important role. Observables cannot easily explain much variation. These findings underscore the urgent need to incorporate organizations' relative (in)attentiveness to act on software update releases into the design of cybersecurity policies.
 </small><br><br/></div>
 
 
@@ -60,6 +60,9 @@ The rise in cyberattacks over the past two decades spurred interest in policies 
 <div id="semi" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study how supply capacity coordination can reduce social inefficiency from demand uncertainty and market power in the context of the semiconductor manufacturing industry. Market power generates misalignment between firm profit-maximizing capacity investments and welfare-maximizing capacity investments. To quantify the extent of this inefficiency and explore how various forms of supply coordination can mitigate it, we estimate a static structural model of semiconductor demand and a dynamic model of supply-side investment in technology and capacity. The data we have assembled to perform this exercise are, to our knowledge, the most comprehensive data on the industry in academic research. We obtain: (i) detailed proprietary buyer-level product demand data, covering around 20% of world orders, from 2004 to 2015, and (ii) proprietary world-wide, plant-level technology and capacity investment in semiconductor manufacturing plants from 1995 to 2015. We compare in counterfactual scenarios the relative efficacy of various forms of supply coordination (e.g., social planner, monopoly manufacturer, coordination on technology and capacity investment but competition in product market) in reducing inefficiency.
 </small><br><br/></div>
+
+**The Effect of U.S.-China Decoupling on Investment in High-Tech Manufacturing** 
+(with Audrey Tiew).
 
 # <center> Publications </center>
 - - -
