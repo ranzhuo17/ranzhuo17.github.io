@@ -63,6 +63,12 @@ We study how supply capacity coordination can reduce social inefficiency from de
 
 **The Effect of U.S.-China Decoupling on Investment in High-Tech Manufacturing** 
 (with Audrey Tiew).
+<br/>
+<small>[ <a href="#/" onclick="visib('semi_2')">Abstract</a> ] </small>
+
+<div id="semi_2" style="display: none; text-align: justify; line-height: 1.2" ><small>
+High-tech manufacturing is often characterized by rapid technology turnover, frequent and substantial investment fixed-costs, and significant economies of scale. Recent national policies emphasizing domestic self-reliance in the U.S. and China highlight potential interactions between these industry characteristics and national security considerations. In this paper, we study the effect of U.S.-China decoupling on investments in contract manufacturing capacity for semiconductor chips. Our unique dataset combines a comprehensive sample of worldwide plant-level capacity investments and a representative sample of global contract manufacturing orders for semiconductors on a quarterly basis from 2004 to 2015. We use this data to estimate: (i) a static model of manufacturing contracts, and (ii) a dynamic structural model of manufacturers' capacity investment decisions. Using counterfactuals, we explore a large global semiconductor manufacturer's potential responses to geographically specific national policies affecting investment incentives. 
+</small><br><br/></div>
 
 # <center> Publications </center>
 - - -
