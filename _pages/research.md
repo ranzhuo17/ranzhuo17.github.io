@@ -42,11 +42,13 @@ or relegation to the file drawer) and the proportion whose significance was due 
 (with Raviv Murciano-Goroff and Shane Greenstein). 2024.
 *Resubmitted, Management Science.*
 <br/>
-<small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> ] </small>
+<small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> | [HBS Working Knowledge][HBS_working_knowledge]] </small>
 
 <div id="oss2" style="display: none; text-align: justify; line-height: 1.2" ><small>
 How prevalent are severe software vulnerabilities, how fast do software users respond to the availability of secure versions, and what determines the variance in the installation distribution? Using the largest dataset ever assembled on user updates, tracking server software updates by over 150,000 medium and large U.S. organizations between 2000 and 2018, this study finds widespread usage of server software with known vulnerabilities, with 57% of organizations using software with severe security vulnerabilities even when secure versions were available. The study estimates several different reduced-form models to examine which organization characteristics correlate with higher vulnerability prevalence and which update characteristics causally explain higher responsiveness to the releases of secure versions. The disclosure of severe vulnerability fixes in software updates does not jolt all organizations into installing them. Factors related to the cost of updating, such as whether the software is hosted on a cloud-based platform and whether the update is an incremental change or a major overhaul, play an important role. Observables cannot easily explain much variation. These findings underscore the urgent need to incorporate organizations' relative (in)attentiveness to act on software update releases into the design of cybersecurity policies.
 </small><br><br/></div>
+
+[HBS_working_knowledge]: https://hbswk.hbs.edu/item/why-companies-shouldnt-delay-software-updates-even-after-crowdstrikes-flaw?utm_source=ActiveCampaign&utm_medium=email&utm_content=Software%20updates%20and%20CrowdStrike%20%7C%20Physician%20burnout%20and%20AI&utm_campaign=WK%20Newsletter%208-14-2024
 
 
 # <center> Work in Progress </center>
@@ -89,13 +91,14 @@ How do you measure the value of a commodity that transacts at a price of zero fr
 (with Bradley Huffaker, kc claffy, and Shane Greenstein). 2021.
 *Telecommunications Policy 45 (2): 102083.*
 <br/>
-<small>[ <a href="#/" onclick="visib('gdpr')">Abstract</a> | [Publisher's Version][gdpr_pub] ] </small>
+<small>[ <a href="#/" onclick="visib('gdpr')">Abstract</a> | [Publisher's Version][gdpr_pub] | [VoxEU Column][VoxEU_column] ] </small>
 
 <div id="gdpr" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The Internet comprises thousands of independently operated networks, interconnected using bilaterally negotiated data exchange agreements. The European Union (EU)'s General Data Protection Regulation (GDPR) imposes strict restrictions on handling of personal data of European Economic Area (EEA) residents. A close examination of the text of the law suggests significant cost to application firms. Available empirical evidence confirms reduction in data usage in the EEA relative to other markets. We investigate whether this decline in derived demand for data exchange impacts EEA networks' decisions to interconnect relative to those of non-EEA OECD networks. Our data consists of a large sample of interconnection agreements between networks globally in 2015–2019. All evidence estimates zero effects: the number of observed agreements, the inferred agreement types, and the number of observed IP-address-level interconnection points per agreement. We also find economically small effects of the GDPR on the entry and the observed number of customers of networks. We conclude there is no visible short run effects of the GDPR on these measures at the internet layer.
 </small><br><br/></div>
 
 [gdpr_pub]: https://www.sciencedirect.com/science/article/abs/pii/S0308596120301737
+[VoxEU_column]: https://cepr.org/voxeu/columns/gdpr-and-internet-interconnection
 
 
 **Do Low‐Price Guarantees Guarantee Low Prices? Evidence from Competition between Amazon and Big‐Box Stores.** 
