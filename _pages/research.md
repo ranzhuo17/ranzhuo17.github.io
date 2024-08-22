@@ -29,25 +29,29 @@ Balancing exploitation and exploration in resource allocation under incomplete i
 
 **Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
 (with Christopher Snyder). 2023.
-*Accepted, Review of Economics and Statistics.*
+*Forthcoming, Review of Economics and Statistics.*
 <br/>
-<small>[ <a href="#/" onclick="visib('bias')">Abstract</a> ] </small>
+<small>[ <a href="#/" onclick="visib('bias')">Abstract</a> | [Publisher's Version][pub_pub]] </small>
 
 <div id="bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The increasing demand for empirical rigor has led to the growing use of auxiliary tests (balance, pre-trends, over-identification, placebo, etc.) to help assess the credibility of a paper's main results. We dub these ``sniff tests'' because rejection is bad news for the author and standards for passing are informal. We use these sniff tests---a sample of nearly 30,000 hand collected from scores of economics journals---as a lens to examine selection pressures in the publication process. We derive bounds under plausible nonparametric assumptions on the latent proportion of significant sniff tests removed by the publication process (whether by p-hacking
 or relegation to the file drawer) and the proportion whose significance was due to true misspecification, not bad luck. For the subsample of balance tests in randomized controlled trials, we find that the publication process removed at least 30% of significant p-values. For the subsample of other tests, we find a that at least 40% of significant p-values indicated true misspecification. We use textual analysis to assess whether authors over-attribute significant sniff tests to bad luck.
 </small><br><br/></div>
 
+[pub_pub]:https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01410/119486/Examining-Selection-Pressures-in-the-Publication?redirectedFrom=fulltext
+
 **Navigating Software Vulnerabilities: Eighteen Years of Evidence from Medium and Large U.S. Organizations** 
 (with Raviv Murciano-Goroff and Shane Greenstein). 2024.
 <br/>
-<small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> | [HBS Working Knowledge][HBS_working_knowledge]] </small>
+<small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> | [NBER Working Paper][oss_paper] | [HBS Working Knowledge][HBS_working_knowledge]] </small>
 
 <div id="oss2" style="display: none; text-align: justify; line-height: 1.2" ><small>
 How prevalent are severe software vulnerabilities, how fast do software users respond to the availability of secure versions, and what determines the variance in the installation distribution? Using the largest dataset ever assembled on user updates, tracking server software updates by over 150,000 medium and large U.S. organizations between 2000 and 2018, this study finds widespread usage of server software with known vulnerabilities, with 57% of organizations using software with severe security vulnerabilities even when secure versions were available. The study estimates several different reduced-form models to examine which organization characteristics correlate with higher vulnerability prevalence and which update characteristics causally explain higher responsiveness to the releases of secure versions. The disclosure of severe vulnerability fixes in software updates does not jolt all organizations into installing them. Factors related to the cost of updating, such as whether the software is hosted on a cloud-based platform and whether the update is an incremental change or a major overhaul, play an important role. Observables cannot easily explain much variation. These findings underscore the urgent need to incorporate organizations' relative (in)attentiveness to act on software update releases into the design of cybersecurity policies.
 </small><br><br/></div>
 
 [HBS_working_knowledge]: https://hbswk.hbs.edu/item/why-companies-shouldnt-delay-software-updates-even-after-crowdstrikes-flaw?utm_source=ActiveCampaign&utm_medium=email&utm_content=Software%20updates%20and%20CrowdStrike%20%7C%20Physician%20burnout%20and%20AI&utm_campaign=WK%20Newsletter%208-14-2024
+
+[oss_paper]:https://www.nber.org/papers/w32696#:~:text=Using%20the%20largest%20dataset%20ever,using%20software%20with%20severe%20security
 
 
 # <center> Work in Progress </center>
