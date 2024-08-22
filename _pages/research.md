@@ -40,7 +40,6 @@ or relegation to the file drawer) and the proportion whose significance was due 
 
 **Navigating Software Vulnerabilities: Eighteen Years of Evidence from Medium and Large U.S. Organizations** 
 (with Raviv Murciano-Goroff and Shane Greenstein). 2024.
-*Resubmitted, Management Science.*
 <br/>
 <small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> | [HBS Working Knowledge][HBS_working_knowledge]] </small>
 
