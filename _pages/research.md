@@ -31,7 +31,7 @@ Balancing exploitation and exploration in resource allocation under incomplete i
 (with Raviv Murciano-Goroff and Shane Greenstein). 2025.
 *Submitted.*
 <br/>
-<small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> | [NBER Working Paper][oss_paper] | [HBS Working Knowledge][HBS_working_knowledge] | [NBER Digest][nber_digest]] </small>
+<small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> | [NBER Working Paper][oss_paper] | [HBS Working Knowledge][HBS_working_knowledge] | [NBER Digest][nber_digest] ] </small>
 
 <div id="oss2" style="display: none; text-align: justify; line-height: 1.2" ><small>
 How prevalent are severe software vulnerabilities, how fast do software users respond to the availability of secure versions, and what determines the variance in the installation distribution? Using the largest dataset ever assembled on user updates, tracking server software updates by over 150,000 medium and large U.S. organizations between 2000 and 2018, this study finds widespread usage of server software with known vulnerabilities, with 57% of organizations using software with severe security vulnerabilities even when secure versions were available. The study estimates several different reduced-form models to examine which organization characteristics correlate with higher vulnerability prevalence and which update characteristics causally explain higher responsiveness to the releases of secure versions. The disclosure of severe vulnerability fixes in software updates does not jolt all organizations into installing them. Factors related to the cost of updating, such as whether the software is hosted on a cloud-based platform and whether the update is an incremental change or a major overhaul, play an important role. Observables cannot easily explain much variation. These findings underscore the urgent need to incorporate organizations' relative (in)attentiveness to act on software update releases into the design of cybersecurity policies.
@@ -56,9 +56,9 @@ Declines in vaccination coverage for vaccine-preventable diseases, such as measl
 [vaccine_paper]: https://arxiv.org/abs/2503.04572
 
 **The Effect of U.S.-China Decoupling on Investment in High-Tech Manufacturing** 
-(with Audrey Tiew).
+(with Audrey Tiew). 2025
 <br/>
-<small>[ <a href="#/" onclick="visib('semi_2')">Abstract</a> ] | Draft available upon request </small>
+<small>[ <a href="#/" onclick="visib('semi_2')">Abstract</a> | Draft available upon request ]</small>
 
 <div id="semi_2" style="display: none; text-align: justify; line-height: 1.2" ><small>
 High-tech manufacturing is often characterized by rapid technology turnover, frequent and substantial investment fixed-costs, and significant economies of scale. Recent national policies emphasizing domestic self-reliance in the U.S. and China highlight potential interactions between these industry characteristics and national security considerations. In this paper, we study the effect of U.S.-China decoupling on investments in contract manufacturing capacity for semiconductor chips. Our unique dataset combines a comprehensive sample of worldwide plant-level capacity investments and a representative sample of global contract manufacturing orders for semiconductors on a quarterly basis from 2004 to 2015. We use this data to estimate: (i) a static model of manufacturing contracts, and (ii) a dynamic structural model of manufacturers' capacity investment decisions. Using counterfactuals, we explore a large global semiconductor manufacturer's potential responses to geographically specific national policies affecting investment incentives. 
@@ -85,7 +85,7 @@ We study how supply capacity coordination can reduce social inefficiency from de
 (with Christopher Snyder). 2023.
 *Forthcoming, Review of Economics and Statistics.*
 <br/>
-<small>[ <a href="#/" onclick="visib('bias')">Abstract</a> | [Publisher's Version][pub_pub]] </small>
+<small>[ <a href="#/" onclick="visib('bias')">Abstract</a> | [Publisher's Version][pub_pub] ] </small>
 
 <div id="bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The increasing demand for empirical rigor has led to the growing use of auxiliary tests (balance, pre-trends, over-identification, placebo, etc.) to help assess the credibility of a paper's main results. We dub these ``sniff tests'' because rejection is bad news for the author and standards for passing are informal. We use these sniff tests---a sample of nearly 30,000 hand collected from scores of economics journals---as a lens to examine selection pressures in the publication process. We derive bounds under plausible nonparametric assumptions on the latent proportion of significant sniff tests removed by the publication process (whether by p-hacking
