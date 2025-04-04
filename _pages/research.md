@@ -42,6 +42,15 @@ How prevalent are severe software vulnerabilities, how fast do software users re
 
 [nber_digest]:https://www.nber.org/digest/202409/software-vulnerability-management
 
+**The Effect of U.S.-China Decoupling on Investment in High-Tech Manufacturing** 
+(with Audrey Tiew).
+<br/>
+<small>[ <a href="#/" onclick="visib('semi_2')">Abstract</a> ] | [Draft available upon request] </small>
+
+<div id="semi_2" style="display: none; text-align: justify; line-height: 1.2" ><small>
+High-tech manufacturing is often characterized by rapid technology turnover, frequent and substantial investment fixed-costs, and significant economies of scale. Recent national policies emphasizing domestic self-reliance in the U.S. and China highlight potential interactions between these industry characteristics and national security considerations. In this paper, we study the effect of U.S.-China decoupling on investments in contract manufacturing capacity for semiconductor chips. Our unique dataset combines a comprehensive sample of worldwide plant-level capacity investments and a representative sample of global contract manufacturing orders for semiconductors on a quarterly basis from 2004 to 2015. We use this data to estimate: (i) a static model of manufacturing contracts, and (ii) a dynamic structural model of manufacturers' capacity investment decisions. Using counterfactuals, we explore a large global semiconductor manufacturer's potential responses to geographically specific national policies affecting investment incentives. 
+</small><br><br/></div>
+
 
 # <center> Work in Progress </center>
 - - -
@@ -55,14 +64,6 @@ How prevalent are severe software vulnerabilities, how fast do software users re
 We study how supply capacity coordination can reduce social inefficiency from demand uncertainty and market power in the context of the semiconductor manufacturing industry. Market power generates misalignment between firm profit-maximizing capacity investments and welfare-maximizing capacity investments. To quantify the extent of this inefficiency and explore how various forms of supply coordination can mitigate it, we estimate a static structural model of semiconductor demand and a dynamic model of supply-side investment in technology and capacity. The data we have assembled to perform this exercise are, to our knowledge, the most comprehensive data on the industry in academic research. We obtain: (i) detailed proprietary buyer-level product demand data, covering around 20% of world orders, from 2004 to 2015, and (ii) proprietary world-wide, plant-level technology and capacity investment in semiconductor manufacturing plants from 1995 to 2015. We compare in counterfactual scenarios the relative efficacy of various forms of supply coordination (e.g., social planner, monopoly manufacturer, coordination on technology and capacity investment but competition in product market) in reducing inefficiency.
 </small><br><br/></div>
 
-**The Effect of U.S.-China Decoupling on Investment in High-Tech Manufacturing** 
-(with Audrey Tiew).
-<br/>
-<small>[ <a href="#/" onclick="visib('semi_2')">Abstract</a> ] </small>
-
-<div id="semi_2" style="display: none; text-align: justify; line-height: 1.2" ><small>
-High-tech manufacturing is often characterized by rapid technology turnover, frequent and substantial investment fixed-costs, and significant economies of scale. Recent national policies emphasizing domestic self-reliance in the U.S. and China highlight potential interactions between these industry characteristics and national security considerations. In this paper, we study the effect of U.S.-China decoupling on investments in contract manufacturing capacity for semiconductor chips. Our unique dataset combines a comprehensive sample of worldwide plant-level capacity investments and a representative sample of global contract manufacturing orders for semiconductors on a quarterly basis from 2004 to 2015. We use this data to estimate: (i) a static model of manufacturing contracts, and (ii) a dynamic structural model of manufacturers' capacity investment decisions. Using counterfactuals, we explore a large global semiconductor manufacturer's potential responses to geographically specific national policies affecting investment incentives. 
-</small><br><br/></div>
 
 # <center> Publications </center>
 - - -
