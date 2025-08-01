@@ -55,7 +55,7 @@ Declines in vaccination coverage for vaccine-preventable diseases, such as measl
 
 [vaccine_paper]: https://arxiv.org/abs/2503.04572
 
-**The Effect of U.S.-China Decoupling on Investment in High-Tech Manufacturing** 
+**Industrial Policy, Location Choice, and Firm Performance in High-Tech Manufacturing** 
 (with Audrey Tiew). 2025.
 <br/>
 <small>[ <a href="#/" onclick="visib('semi_2')">Abstract</a> | [Paper][semi_paper] ]</small>
