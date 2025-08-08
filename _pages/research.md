@@ -65,7 +65,7 @@ High-tech manufacturing industries face constant technological change and sustai
 </small><br><br/></div>
 
 [semi_paper]: https://ranzhuo17.github.io/files/draft_v28.pdf
-[semi_paper_v29]: https://ranzhuo17.github.io/files/draft_v28.pdf
+[semi_paper_v29]: https://ranzhuo17.github.io/files/draft_v29.pdf
 
 
 # <center> Work in Progress </center>
