@@ -12,7 +12,7 @@ permalink: /research/
 # <center> Working Papers </center>
 - - -
 
-**Exploit or Explore? An Empirical Study of Resource Allocation in Research Labs.** 
+**Navigating the Exploitation-Exploration Tradeoff: An Empirical Study of Resource Allocation in Research Labs.** 
 2025.
 *Resubmitted, Management Science.*
 <br/>
