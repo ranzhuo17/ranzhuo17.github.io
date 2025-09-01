@@ -14,14 +14,15 @@ permalink: /research/
 
 **Exploit or Explore? An Empirical Study of Resource Allocation in Research Labs.** 
 2023.
-*Reject and resubmit, Management Science.*
+*Resubmitted, Management Science.*
 <br/>
-<small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Latest Version + Appendices (December 2023)][biolab_paper] | [October 2022 Version][ee_paper] | [October 2022 Version Appendices][ee_app] ] </small>
+<small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Latest Version + Appendices (September 2025)][biolab_paper_Sept2025]| [December 2023 Version + Appendices][biolab_paper] | [October 2022 Version][ee_paper] | [October 2022 Version Appendices][ee_app] ] </small>
 
 <div id="ee" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Balancing exploitation and exploration in resource allocation under incomplete information is a classic problem in operations management theory. Yet little research has empirically studied how and how well decision-makers make the exploitation-exploration tradeoff in a complex real-world situation. This paper empirically studies how a group of large publicly funded research labs traded off the exploitation of safe projects to maximize short-term productivity versus the exploration of high-variance projects to acquire information and improve long-term productivity. Using granular data on the allocation of almost one million input bundles to more than 300,000 research projects from 2000 to 2015, we model the resource allocation process as a multi-armed bandit and estimate a dynamic structural model to reveal how these labs balanced exploitation and exploration. We find the labs' decision model strongly resembles a simple Upper Confidence Bound (UCB) index. Estimates of the model’s free parameters suggest that the labs explored extensively. Counterfactual simulations show that exploration substantially increased the labs’ productivity---had they not explored, their output quantity would have decreased by 51%, and their citations would have decreased by 57%. Further simulations demonstrate that the labs' decision model outperformed popular alternative allocation models, including the Gittins Index, Thompson Sampling, and Explore-Then-Commit. Additionally, processes that promoted information utilization during allocation contributed to better outcomes. Had the labs not collected and performed data analytics on the information revealed during exploration, they would have saved 3% of funding but lowered output quantity by 7% and citations by 9%. 
 </small><br><br/></div>
 
+[biolab_paper_Sept2025]: https://ranzhuo17.github.io/files/ExploitExplore_Sept2025.pdf
 [biolab_paper]: https://ranzhuo17.github.io/files/biolab_Zhuo.pdf
 [ee_paper]: https://ranzhuo17.github.io/files/RanZhuo_JMP_main_current.pdf
 [ee_app]:https://ranzhuo17.github.io/files/RanZhuo_JMP_appendices_current.pdf
@@ -29,7 +30,6 @@ Balancing exploitation and exploration in resource allocation under incomplete i
 
 **Navigating Software Vulnerabilities: Eighteen Years of Evidence from Medium and Large U.S. Organizations** 
 (with Raviv Murciano-Goroff and Shane Greenstein). 2025.
-*Submitted.*
 <br/>
 <small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> | [NBER Working Paper][oss_paper] | [HBS Working Knowledge][HBS_working_knowledge] | [NBER Digest][nber_digest] ] </small>
 
