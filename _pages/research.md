@@ -13,7 +13,7 @@ permalink: /research/
 - - -
 
 **Exploit or Explore? An Empirical Study of Resource Allocation in Research Labs.** 
-2023.
+2025.
 *Resubmitted, Management Science.*
 <br/>
 <small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Latest Version + Appendices (September 2025)][biolab_paper_Sept2025]| [December 2023 Version + Appendices][biolab_paper] | [October 2022 Version][ee_paper] | [October 2022 Version Appendices][ee_app] ] </small>
