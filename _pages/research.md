@@ -74,18 +74,6 @@ We study how supply capacity coordination can reduce social inefficiency from de
 # <center> Publications </center>
 - - -
 
-**Social Imitation Dynamics of Vaccination Driven by Vaccine Effectiveness and Beliefs**
-(with Feng Fu and Xingru Chen). 2025.
-*Forthcoming, PLOS Computational Biology.*
-<br/>
-<small>[ <a href="#/" onclick="visib('vaccine')">Abstract</a> | [Paper][vaccine_paper] ]</small>
-
-<div id="vaccine" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Declines in vaccination coverage for vaccine-preventable diseases, such as measles and chickenpox, have enabled their surprising comebacks and pose significant public health challenges in the wake of growing vaccine hesitancy. Vaccine opt-outs and refusals are often fueled by beliefs concerning perceptions of vaccine effectiveness and exaggerated risks. Here, we quantify the impact of competing beliefs -- vaccine-averse versus vaccine-neutral -- on social imitation dynamics of vaccination, alongside the epidemiological dynamics of disease transmission. These beliefs may be pre-existing and fixed, or coevolving attitudes. This interplay among beliefs, behaviors, and disease dynamics demonstrates that individuals are not perfectly rational; rather, they base their vaccine uptake decisions on beliefs, personal experiences, and social influences. We find that the presence of a small proportion of fixed vaccine-averse beliefs can significantly exacerbate the vaccination dilemma, making the tipping point in the hysteresis loop more sensitive to changes in individuals' perceived costs of vaccination and vaccine effectiveness. However, in scenarios where competing beliefs spread concurrently with vaccination behavior, their double-edged impact can lead to self-correction and alignment between vaccine beliefs and behaviors. The results show that coevolution of vaccine beliefs and behaviors makes populations more sensitive to abrupt changes in perceptions of vaccine cost and effectiveness compared to scenarios without beliefs. Our work provides valuable insights into harnessing the social contagion of even vaccine-neutral attitudes to overcome vaccine hesitancy.
-</small><br><br/></div>
-
-[vaccine_paper]: https://arxiv.org/abs/2503.04572
-
 **Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
 (with Christopher Snyder). 2023.
 *Forthcoming, Review of Economics and Statistics.*
@@ -98,6 +86,18 @@ or relegation to the file drawer) and the proportion whose significance was due 
 </small><br><br/></div>
 
 [pub_pub]:https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01410/119486/Examining-Selection-Pressures-in-the-Publication?redirectedFrom=fulltext
+
+**Social Imitation Dynamics of Vaccination Driven by Vaccine Effectiveness and Beliefs**
+(with Feng Fu and Xingru Chen). 2025.
+*PLOS Computational Biology 21 (10), e1013586.*
+<br/>
+<small>[ <a href="#/" onclick="visib('vaccine')">Abstract</a> | [Publisher's Version][vaccine_paper] ]</small>
+
+<div id="vaccine" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Declines in vaccination coverage for vaccine-preventable diseases, such as measles and chickenpox, have enabled their surprising comebacks and pose significant public health challenges in the wake of growing vaccine hesitancy. Vaccine opt-outs and refusals are often fueled by beliefs concerning perceptions of vaccine effectiveness and exaggerated risks. Here, we quantify the impact of competing beliefs -- vaccine-averse versus vaccine-neutral -- on social imitation dynamics of vaccination, alongside the epidemiological dynamics of disease transmission. These beliefs may be pre-existing and fixed, or coevolving attitudes. This interplay among beliefs, behaviors, and disease dynamics demonstrates that individuals are not perfectly rational; rather, they base their vaccine uptake decisions on beliefs, personal experiences, and social influences. We find that the presence of a small proportion of fixed vaccine-averse beliefs can significantly exacerbate the vaccination dilemma, making the tipping point in the hysteresis loop more sensitive to changes in individuals' perceived costs of vaccination and vaccine effectiveness. However, in scenarios where competing beliefs spread concurrently with vaccination behavior, their double-edged impact can lead to self-correction and alignment between vaccine beliefs and behaviors. The results show that coevolution of vaccine beliefs and behaviors makes populations more sensitive to abrupt changes in perceptions of vaccine cost and effectiveness compared to scenarios without beliefs. Our work provides valuable insights into harnessing the social contagion of even vaccine-neutral attitudes to overcome vaccine hesitancy.
+</small><br><br/></div>
+
+[vaccine_paper]: https://arxiv.org/abs/2503.04572](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013586
 
 **Hidden Software and Veiled Value Creation: Illustrations from Server Software Usage** 
 (with Raviv Murciano-Goroff and Shane Greenstein). 2021.
