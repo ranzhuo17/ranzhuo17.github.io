@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Students & Research Opportunities"
+title: 
 permalink: /students/
 author_profile: true
 
