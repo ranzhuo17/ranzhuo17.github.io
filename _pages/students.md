@@ -1,8 +1,10 @@
 ---
 layout: single
-title: 
+title: ""
 permalink: /students/
 author_profile: true
+header:
+  show_title: false
 
 ---
 ## Current PhD students 
