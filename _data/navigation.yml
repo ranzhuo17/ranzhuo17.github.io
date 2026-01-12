@@ -4,17 +4,19 @@ main:
   - title: "Home"
     url: /
     
-  - title: "CV/Resume"
-    url: /cv/
-    
   - title: "Research"
     url: /research/
+
+  - title: "Global Semiconductor Industrial Policy Tracker"
+    url: /semiconductor_industrial_policy/
+
+  - title: "CV/Resume"
+    url: /cv/
 
   - title: "Students & Research Opportunities"
     url: /students/
 
-  - title: "Global Semiconductor Industrial Policy Tracker"
-    url: /semiconductor_industrial_policy/
+
   
     
 
