@@ -14,7 +14,7 @@ permalink: /research/
 
 **Navigating the Exploitation-Exploration Tradeoff: An Empirical Study of Resource Allocation in Research Labs.** 
 2025.
-*Resubmitted, Management Science.*
+*Major Revision, Management Science.*
 <br/>
 <small>[ <a href="#/" onclick="visib('ee')">Abstract</a> | [Latest Version + Appendices (September 2025)][biolab_paper_Sept2025]| [December 2023 Version + Appendices][biolab_paper] | [October 2022 Version][ee_paper] | [October 2022 Version Appendices][ee_app] ] </small>
 
@@ -28,13 +28,14 @@ Balancing exploitation and exploration in resource allocation under uncertainty 
 [ee_app]:https://ranzhuo17.github.io/files/RanZhuo_JMP_appendices_current.pdf
 
 
-**Navigating Software Vulnerabilities: Eighteen Years of Evidence from Medium and Large U.S. Organizations** 
+**Managing the Unmitigated: Eighteen Years of Evidence on Why Risks Go Unfixed** 
 (with Raviv Murciano-Goroff and Shane Greenstein). 2025.
+*Minor Revision, Organization Science.*
 <br/>
 <small>[ <a href="#/" onclick="visib('oss2')">Abstract</a> | [NBER Working Paper][oss_paper] | [HBS Working Knowledge][HBS_working_knowledge] | [NBER Digest][nber_digest] ] </small>
 
 <div id="oss2" style="display: none; text-align: justify; line-height: 1.2" ><small>
-How prevalent are severe software vulnerabilities, how fast do software users respond to the availability of secure versions, and what determines the variance in the installation distribution? Using the largest dataset ever assembled on user updates, tracking server software updates by over 150,000 medium and large U.S. organizations between 2000 and 2018, this study finds widespread usage of server software with known vulnerabilities, with 57% of organizations using software with severe security vulnerabilities even when secure versions were available. The study estimates several different reduced-form models to examine which organization characteristics correlate with higher vulnerability prevalence and which update characteristics causally explain higher responsiveness to the releases of secure versions. The disclosure of severe vulnerability fixes in software updates does not jolt all organizations into installing them. Factors related to the cost of updating, such as whether the software is hosted on a cloud-based platform and whether the update is an incremental change or a major overhaul, play an important role. Observables cannot easily explain much variation. These findings underscore the urgent need to incorporate organizations' relative (in)attentiveness to act on software update releases into the design of cybersecurity policies.
+Why do organizations differ in how much they invest in preventing adverse events? This study examines a setting in which organizations face the same cybersecurity vulnerabilities with freely available fixes, and yet make strikingly different choices. The study constructs a monthly panel of 150,836 medium and large U.S. organizations (2000–2018), linking the server software versions used to host their websites with detailed data on the software's vulnerabilities, the timing of updates, and organizational attributes. Descriptively, 57% of organizations run software with known, fixable severe vulnerabilities in a typical month, and only 34% install patches within six months of a fix’s release; updating behavior is highly persistent within organizations. Guided by a threshold-cost view of preventive action, panel and stratified hazard models relate patching levels and speed to proxies for perceived costs and benefits. The evidence indicates that cost-side factors—coordination demands, infrastructure scope and complexity, potential operational disruption, and sourcing of mitigation capacity—systematically predict whether and how quickly organizations mitigate vulnerabilities, whereas proxies for value at risk, regulatory stakes, and external risk salience do not. High-traffic and data-intensive organizations, if anything, accumulate more unfixed severe vulnerabilities, while organizations that outsource infrastructure and reduce technical debt patch more promptly. The findings reframe organizational risk mitigation as primarily an adjustment-cost and capability problem and highlight design levers for managers, vendors, and policymakers seeking to close the gap between “known and fixable” and “actually mitigated” risks.
 </small><br><br/></div>
 
 [HBS_working_knowledge]: https://hbswk.hbs.edu/item/why-companies-shouldnt-delay-software-updates-even-after-crowdstrikes-flaw?utm_source=ActiveCampaign&utm_medium=email&utm_content=Software%20updates%20and%20CrowdStrike%20%7C%20Physician%20burnout%20and%20AI&utm_campaign=WK%20Newsletter%208-14-2024
@@ -71,12 +72,15 @@ We study how supply capacity coordination can reduce social inefficiency from de
 **Risk and Return in Scientific Research: Evidence from Structural Biology**
 (with Pierre Azoulay and Soomi Kim).
 
+**How Industrial Policy Reshapes Firms’ Capacity Investment Portfolios: Evidence from Semiconductor Manufacturin**
+(with Ali Ilhan Haliloglu and Stefanus Jasin).
+
 # <center> Publications </center>
 - - -
 
 **Examining Selection Pressures in the Publication Process Through the Lens of Sniff Tests** 
-(with Christopher Snyder). 2023.
-*Forthcoming, Review of Economics and Statistics.*
+(with Christopher Snyder). 2026.
+*Review of Economics and Statistics 108 (3): 613–627*
 <br/>
 <small>[ <a href="#/" onclick="visib('bias')">Abstract</a> | [Publisher's Version][pub_pub] ] </small>
 
