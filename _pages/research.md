@@ -70,7 +70,7 @@ We study how supply capacity coordination can reduce social inefficiency from de
 </small><br><br/></div>
 
 **Risk and Return in Scientific Research: Evidence from Structural Biology**
-(with Pierre Azoulay and Soomi Kim).
+(with Pierre Azoulay, Alessandro Bonatti, and Soomi Kim).
 
 **How Industrial Policy Reshapes Firms’ Capacity Investment Portfolios: Evidence from Semiconductor Manufacturin**
 (with Ali Ilhan Haliloglu and Stefanus Jasin).
